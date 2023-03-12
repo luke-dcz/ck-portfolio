@@ -16,18 +16,18 @@ const LettreDeMotivation: NextPage = () => {
 						Madame, monsieur,					
 					</p>
 					<p className="text-[18px]">
-						Actuellement étudiante en première année de BTS Communication au CNED, je souhaiterais effectuer ma deuxième année en alternance pour être mieux préparé au métier de wedding planner. Je suis disponible dès le mois d'août 2023.					</p>
+						Actuellement étudiante en première année de BTS Communication au CNED, je souhaiterais effectuer ma deuxième année en alternance pour être mieux préparé au métier de wedding planner. Je suis disponible dès le mois d&apos;août 2023.</p>
 					<p className="text-[18px]">
-						La renommée de votre entreprise dans le secteur de l'événementiel a rapidement attiré mon attention. Une année d'alternance me permettrait de mettre en pratique les notions étudiées et de proposer à mes futurs employeurs une solide expérience professionnelle.
+						La renommée de votre entreprise dans le secteur de l&apos;événementiel a rapidement attiré mon attention. Une année d&apos;alternance me permettrait de mettre en pratique les notions étudiées et de proposer à mes futurs employeurs une solide expérience professionnelle.
 					</p>
 					<p className="text-[18px]">
-						Sérieuse et organisée, je possède les qualités d'adaptation et d'intégration indispensables à la réussite d'une formation en alternance. Passionnée par la communication et l'événementiel, j'ai appris à maitriser quelques aspects techniques de ces domaines grâce à mon expérience personnelle. En effet, j'ai eu l'occasion d'organiser des mariages, des anniversaires au sein de mon entourage mais aussi des événements sportifs et culturels (galas de danse, spectacles de théâtre, expositions, etc...). De plus, ma première année de BTS m'a permis d'acquérir de solides bases de communication et de marketing.
+						Sérieuse et organisée, je possède les qualités d&apos;adaptation et d&apos;intégration indispensables à la réussite d&apos;une formation en alternance. Passionnée par la communication et l&apos;événementiel, j&apos;ai appris à maitriser quelques aspects techniques de ces domaines grâce à mon expérience personnelle. En effet, j&apos;ai eu l&apos;occasion d&apos;organiser des mariages, des anniversaires au sein de mon entourage mais aussi des événements sportifs et culturels (galas de danse, spectacles de théâtre, expositions, etc...). De plus, ma première année de BTS m&apos;a permis d&apos;acquérir de solides bases de communication et de marketing.
 					</p>
 					<p className="text-[18px]">
-						Mes qualités relationnelles et ma grande motivation me poussent aujourd'hui à vous proposer ma candidature. Je me tiens à votre disposition pour tout complément d'information ou pour convenir d'un entretien.
+						Mes qualités relationnelles et ma grande motivation me poussent aujourd&apos;hui à vous proposer ma candidature. Je me tiens à votre disposition pour tout complément d&apos;information ou pour convenir d&apos;un entretien.
 					</p>
 					<p className="w-full text-[18px]">
-						Dans l'attente d'une réponse de votre part, je vous prie d'agréer Madame, messieurs, mes sincères salutations.
+						Dans l&apos;attente d&apos;une réponse de votre part, je vous prie d&apos;agréer Madame, messieurs, mes sincères salutations.
 					</p>
 					<div className="flex w-full justify-between">
 						<p>

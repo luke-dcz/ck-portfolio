@@ -14,7 +14,7 @@ const Home: NextPage = () => {
 					<div className="bg-cover w-[50%] flex items-center justify-center" style={{backgroundImage: "url('whoAmI.png')"}}>
 						<div className="flex mx-20 mt-24 flex-wrap justify-center">
 							<p className="text-center ">
-								Actuellement étudiante en BTS Communication, je souhaiterais effectuer ma deuxième année en alternance au sein d'une entreprise. Forte de mon expérience professionnelle et de mes notions de communication acquises lors de ma première année de BTS, je saurais m'adapter facilement dans votre entreprise et répondre au mieux à vos attentes.
+								Actuellement étudiante en BTS Communication, je souhaiterais effectuer ma deuxième année en alternance au sein d&apos;une entreprise. Forte de mon expérience professionnelle et de mes notions de communication acquises lors de ma première année de BTS, je saurais m&apos;adapter facilement dans votre entreprise et répondre au mieux à vos attentes.
 							</p>
 							<Link href='/lettre-de-motivation' className="pt-8 text-s">En savoir plus</Link>
 						</div>
@@ -35,7 +35,7 @@ const Home: NextPage = () => {
 				</div>
 				<div className="w-[50%]">
 					<ul className="list-disc list-inside">
-						<p>Être au pair est un rôle qui nécessite un grand sens des responsabilités, de l'organisation et de la créativité.</p>
+						<p>Être au pair est un rôle qui nécessite un grand sens des responsabilités, de l&apos;organisation et de la créativité.</p>
 					</ul>
 				</div>
 			</div>
@@ -48,7 +48,7 @@ const Home: NextPage = () => {
 				</div>
 				<div className="flex w-[50%]">
 					<ul className="list-disc list-inside">
-						<p>Joe and the Juice est une chaine de café danoise. Le travail de barista nécessite de l'autonomie et de la persévérance. Il permet de développer les capacités de travail en équipe et de service client.</p>
+						<p>Joe and the Juice est une chaine de café danoise. Le travail de barista nécessite de l&apos;autonomie et de la persévérance. Il permet de développer les capacités de travail en équipe et de service client.</p>
 					</ul>
 				</div>
 			</div>
@@ -76,7 +76,7 @@ const Home: NextPage = () => {
 					<h4>Septembre 2020 - Juin 2021</h4>
 				</div>
 				<div className="flex w-[50%]">
-					<p>Cette première année de licence langues étrangères appliquées  m'a permis d'acquérir de nombreuses connaissances en langues (anglais, espagnol et russe) mais également en droit, marketing et communication.</p>
+					<p>Cette première année de licence langues étrangères appliquées  m&apos;a permis d&apos;acquérir de nombreuses connaissances en langues (anglais, espagnol et russe) mais également en droit, marketing et communication.</p>
 				</div>
 			</div>
 			<div className="flex flex-row gap-x-10 justify-center items-start w-full px-[180px] pb-24">
@@ -92,11 +92,11 @@ const Home: NextPage = () => {
 			</div>
 			<div className="w-full bg-black p-12 h-[100vh]">
 				<div className="flex justify-center mt-8">
-					<h1 className="text-white font-[Cormorant-Garamond]"> MES CENTRES D'INTERET</h1>
+					<h1 className="text-white font-[Cormorant-Garamond]"> MES CENTRES D&apos;INTERET</h1>
 				</div>
 				<div className="flex items-center gap-x-10 my-20 w-full">
 					<Link className="bg-cover bg-[center_top_22em] flex justify-center w-[33%] h-[262px] group hover:opacity-70 " style={{backgroundImage: "url('boo.png')"}} href="./portfolio/ce">
-						<button className="hidden group-hover:block text-[#ffffff] font-bold text-lg ">La photo et la vidéo</button>
+						<button className="hidden group-hover:block text-[#ffffff] font-bold text-lg ">La Photo et la Vidéo</button>
 					</Link>
 					<Link className="bg-cover bg-[center_top_150em] flex justify-center w-[33%] h-[262px] group hover:opacity-80" style={{backgroundImage: "url('clouds.png')"}} href='./portfolio/pNv'>
 						<button className=" text-[#ffffff] hidden group-hover:block font-bold text-lg">Les Voyages</button>
@@ -135,13 +135,13 @@ const Home: NextPage = () => {
 				<div className="flex items-start px-36">
 					<div className="flex flex-col justify-center w-[33%] items-center mb-8 gap-2 pl-24">
 						<div className="flex flex-col gap-2">
-							<p>L'anglais: Niveau C1</p>
+							<p>L&apos;anglais: Niveau C1</p>
 							<p>Espagnol: Nivea A2 (Diplôme DELE 2018)</p>
 						</div>
 					</div>
 					<div className="flex flex-col justify-center w-[33%] items-center mb-8">
 						<div className="flex flex-col gap-2 ">
-							<p className="text-center">Organisation d'événements : mariages,<br /> anniversaires, évènements sportifs<br /> et culturels...</p>
+							<p className="text-center">Organisation d&apos;événements : mariages,<br /> anniversaires, évènements sportifs<br /> et culturels...</p>
 						</div>
 					</div>
 					<div className="flex flex-col justify-center w-[33%] items-center mb-8">
